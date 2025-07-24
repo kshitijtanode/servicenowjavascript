@@ -47,9 +47,9 @@
 // console.log(res);
 
 //repeat
-let str ="I Love Code";
-let res = str.repeat(4);
-console.log(res);
+// let str ="I Love Code";
+// let res = str.repeat(4);
+// console.log(res);
 
 
 
