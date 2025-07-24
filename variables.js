@@ -26,7 +26,7 @@
 // num 100; // automatically
 // console.log(num);
 
-{
-    let num=100;
-    console.log(num);
-}
+// {
+//     let num=100;
+//     console.log(num);
+// }
