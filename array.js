@@ -73,6 +73,6 @@
 
 // console.log(arr[7][4][4]);
 
-//string to arry
-let str ="1,2,3,4,5,6,";
-console.log(str.split());
+// //string to arry
+// let str ="1,2,3,4,5,6,";
+// console.log(str.split()); 
