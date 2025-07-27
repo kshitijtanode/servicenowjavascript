@@ -52,15 +52,15 @@
 
 // destructuring
 
- let studentinfo = {
-    Fname : "Tony",
-    Lname : "Stark",
-    RollNo :  2001,
-    isPass :  true,
-    Grade : "B"
- }
- let{Fname, Lname, Grade} = studentinfo;
- console.log(Fname);
+//  let studentinfo = {
+//     Fname : "Tony",
+//     Lname : "Stark",
+//     RollNo :  2001,
+//     isPass :  true,
+//     Grade : "B"
+//  }
+//  let{Fname, Lname, Grade} = studentinfo;
+//  console.log(Fname);
 
 
 
