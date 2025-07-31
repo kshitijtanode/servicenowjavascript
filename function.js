@@ -88,16 +88,16 @@
 
 
 
-(function addSum(){
-    console.log("This is IIFE");
+// (function addSum(){
+//     console.log("This is IIFE");
 
-})();
+// })();
 
 
-(function addSum(){
-    console.log("This is IIFE 2nd");
+// (function addSum(){
+//     console.log("This is IIFE 2nd");
 
-})();
+// })();
 
 
 
