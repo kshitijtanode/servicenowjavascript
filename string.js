@@ -54,3 +54,19 @@
 
 
 
+
+
+// string litrals
+// console.log("this is normal string");
+
+// console.log('this is string litrals');
+
+// function addSum(){
+//     let a = 50;
+//     let b = 100;
+
+//     let c = `This is addition of two values : ${a+b}
+//     and the value of a is ${a} and value of b is ${b}`
+//     return c;
+// }
+// console.log(addSum())
